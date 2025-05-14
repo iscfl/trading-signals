@@ -6,4 +6,10 @@ This project demonstrates a real time stock trading signals application using MA
 - TailwindCSS + Next.js front-end
 - Websockets
 - MongoDB
-"# trading-signals" 
+
+## TODO
+- Architecture image
+- backend impl
+- backend tests
+- frontend bugfix vibe code
+- CI/CD
